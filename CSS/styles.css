@@ -1,0 +1,103 @@
+.btn-twitter{
+    background-color: #31a1f2;
+    color: white;
+}
+
+a.btn-twitter:hover{
+    color: white;
+    box-shadow: -2px 3px 6px black;
+}
+
+/* GLOBAL */
+
+body, html, .container, .row{
+    height: 100vh;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+}
+
+/*
+
+    ESTILOS FORMULARIO
+
+*/
+
+div.col-lg-4
+{
+    border: 10px solid transparent;
+    border-image: linear-gradient(to bottom, #010103, #530404) 1;
+}
+
+button.btn-success
+{
+    margin: 10px 0px;
+    background-image: linear-gradient(to bottom, #0a0a0c, #2e0603);
+    border: 0;
+}
+
+div.form-group{
+    margin: 10px auto;
+}
+
+/*
+
+    ESTILOS TARJETA
+    
+*/
+
+.col-lg-7 .card-header, .card-footer{
+    background-image: linear-gradient(to right, #0f0f0f, #290101);
+    color: white;
+    font-weight: 700;
+}
+
+.card-body
+{
+    background-image: url('https://i.pinimg.com/736x/67/4c/b9/674cb9e80ec35886e5afac6de0c5b3de.jpg');
+}
+
+.card-content
+{
+    background-color: rgba(233, 224, 224, 0.589);
+    width: fit-content;
+    margin: 5px auto;
+    padding: 50px 20px;
+    border: 10px solid black;
+}
+
+.card-content img
+{
+    width: 150px;
+    height: 150px;
+    margin: 0px auto 25px auto;
+}
+
+.card-title
+{
+    font-weight: 700;
+    background: linear-gradient(to bottom,#d30e0e, #223946);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Student
+{
+    font-weight: 700;
+}
+
+.Aprendido
+{
+    font-size: 20px;
+}
+body{
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
