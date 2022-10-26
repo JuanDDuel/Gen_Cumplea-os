@@ -1,5 +1,5 @@
 {
-  "name": "Grupo Galileo",
+  "name": "Cumpleaños",
   "version": "1.0.0",
   "description": "Generador de tarjeta de información",
   "main": "index.html",
@@ -18,7 +18,7 @@
     "y",
     "JavaScript"
   ],
-  "author": "Jheyson Galvis <tecnojhe@gmail.com>",
+  "author": "Juan David Paz Marulanda <jpaz89163@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "#"
